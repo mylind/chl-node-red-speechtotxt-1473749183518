@@ -13,8 +13,8 @@
     "node-red-contrib-scx-ibmiotapp": "0.x",
     "node-red-node-cf-cloudant": "0.x",
     "node-red-node-openwhisk": "0.x",
-    "node-red-node-watson": "^0.4.14",
     "node-red-nodes-cf-sqldb-dashdb": "0.x",
+    "watson-developer-cloud": "^0.9.23",
     "redis": "~0.10.1",
     "when": "~3.x"
   },
